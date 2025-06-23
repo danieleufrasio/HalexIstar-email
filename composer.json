@@ -1,0 +1,8 @@
+{
+    "require": {
+      "microsoft/microsoft-graph": "^2.36",
+      "phpmailer/phpmailer": "^6.10",
+      "league/oauth2-client": "^2.8"
+    }
+  }
+  
